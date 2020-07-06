@@ -1,2 +1,1 @@
-# django-lessons
-Backend Test
+# lessons
